@@ -15,7 +15,8 @@ She made clear that on two occasions -- once on January 26 and then again on Jan
 White House counsel Don McGahn to warn him that national security adviser Michael Flynn had been compromised 
 by the Russians and was a blackmail risk."
 
-Original Articles (30 Sentences):
+Original Article (30 Sentences):
+
 Donald Trump's week started with Sally Yates' damning testimony about Michael Flynn and ended with a series of
 wild tweets and an ever-changing story about exactly why he chose to fire FBI Director James Comey.
 
