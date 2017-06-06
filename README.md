@@ -1,4 +1,4 @@
-Summarizes an articles based on word frequency. The idea is that the most frequent words have more value.
+Summarizes an article based on word frequency. The idea is that the most frequent words have more value.
 The user chooses the number of sentences they want their summary to be. Sentences in the summary are printed out 
 in order of calculated importance. Below is a sample run on a CNN article from 5/14/17 titled 
 "Donald Trump's disastrously bad week in Washington"
